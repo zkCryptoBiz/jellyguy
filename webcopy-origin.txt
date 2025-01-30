@@ -1,0 +1,172 @@
+Uri: https://jellyguy.club/
+File Name: C:\Downloaded Web Sites\jellyguy.club\index.htm
+Content Type: text/html
+
+Uri: https://jellyguy.club/css/vibe-cat.webflow.48a6bd06b.css
+File Name: C:\Downloaded Web Sites\jellyguy.club\css\vibe-cat.webflow.48a6bd06b.css
+Content Type: text/css
+
+Uri: https://jellyguy.club/fonts/673e8f3a17cdad8aa73e16d0_CherryBombOne-Regular.ttf
+File Name: C:\Downloaded Web Sites\jellyguy.club\fonts\673e8f3a17cdad8aa73e16d0_CherryBombOne-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://jellyguy.club/images/67391b99f54ebe0d029188e4_Vector.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67391b99f54ebe0d029188e4_Vector.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/67391c07d98f28ed5a719865_Layer_1-2.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67391c07d98f28ed5a719865_Layer_1-2.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/67391c22eec8342a65af2584_Layer_1.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67391c22eec8342a65af2584_Layer_1.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/67391c3f667430263cee341a_Layer_1-1.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67391c3f667430263cee341a_Layer_1-1.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/67395604ebf91b07fc24ff68_favicon_32.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67395604ebf91b07fc24ff68_favicon_32.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6739561b43e8f2d917f168a1_favicon_256.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6739561b43e8f2d917f168a1_favicon_256.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/673b83311876d11a226d0117_title_billions_green_bg_002.gif
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\673b83311876d11a226d0117_title_billions_green_bg_002.gif
+Content Type: image/gif
+
+Uri: https://jellyguy.club/images/677bd7bf82243197519c273e_icon-tiktok.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\677bd7bf82243197519c273e_icon-tiktok.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/677bd7c0ef3ec01fabbd54a1_iconyoutube.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\677bd7c0ef3ec01fabbd54a1_iconyoutube.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/677bd9c8bc6022287c8c7e85_copy.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\677bd9c8bc6022287c8c7e85_copy.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/677d58c94614416d35709248_icon-telegram (1).png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\677d58c94614416d35709248_icon-telegram (1).png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/677d58c9d927b4e150f603c6_icon-telegram (2).png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\677d58c9d927b4e150f603c6_icon-telegram (2).png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6787e68c86a8613fea45ea92_cloud-5.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6787e68c86a8613fea45ea92_cloud-5.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/67892e4698843d1e022ffac6_cloud-3.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67892e4698843d1e022ffac6_cloud-3.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba654e4df3fcecca201b5_telegram-a.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba654e4df3fcecca201b5_telegram-a.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba675126e0445cce0a2e8_telegram-b.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba675126e0445cce0a2e8_telegram-b.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba687b5565ac887028f7b_x-a.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba687b5565ac887028f7b_x-a.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba695ddd2c006a5c9c76d_x-b.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba695ddd2c006a5c9c76d_x-b.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba6a69b8d27f62def413c_snake-a.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba6a69b8d27f62def413c_snake-a.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba6b800ef3f3d9baf8baf_snake-b.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba6b800ef3f3d9baf8baf_snake-b.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba6c880b4901633526bcf_eagle-a.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba6c880b4901633526bcf_eagle-a.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba6d98ca54aae55560fe0_eagle-b.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba6d98ca54aae55560fe0_eagle-b.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba6e69b8d27f62def7daa_symbol-a.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba6e69b8d27f62def7daa_symbol-a.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678ba6f411abbf401dd67773_symbol-b.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678ba6f411abbf401dd67773_symbol-b.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/678fef8e9ee9e79d8e3c797c_canto-1.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\678fef8e9ee9e79d8e3c797c_canto-1.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794c06403d4ba12ab8bfc42_edit_rainbow12 (1)-p-1080.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794c06403d4ba12ab8bfc42_edit_rainbow12 (1)-p-1080.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794c06403d4ba12ab8bfc42_edit_rainbow12 (1)-p-500.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794c06403d4ba12ab8bfc42_edit_rainbow12 (1)-p-500.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794c06403d4ba12ab8bfc42_edit_rainbow12 (1)-p-800.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794c06403d4ba12ab8bfc42_edit_rainbow12 (1)-p-800.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794c06403d4ba12ab8bfc42_edit_rainbow12 (1).png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794c06403d4ba12ab8bfc42_edit_rainbow12 (1).png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794eb2903d4ba12abaec10d_Telegram_logo-p-500.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794eb2903d4ba12abaec10d_Telegram_logo-p-500.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794eb2903d4ba12abaec10d_Telegram_logo.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794eb2903d4ba12abaec10d_Telegram_logo.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794ec2b9cc3c0bf3167a1e8_x-p-500.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794ec2b9cc3c0bf3167a1e8_x-p-500.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/6794ec2b9cc3c0bf3167a1e8_x.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\6794ec2b9cc3c0bf3167a1e8_x.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/67992d713371916b4db484b7_cover_.jpg
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\67992d713371916b4db484b7_cover_.jpg
+Content Type: image/jpeg
+
+Uri: https://jellyguy.club/images/chillguy.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\chillguy.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/images/chillguy2.png
+File Name: C:\Downloaded Web Sites\jellyguy.club\images\chillguy2.png
+Content Type: image/png
+
+Uri: https://jellyguy.club/js/jquery-3.5.1.min.dc5e7f18c8.js
+File Name: C:\Downloaded Web Sites\jellyguy.club\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: text/javascript
+
+Uri: https://jellyguy.club/js/webflow.41d6a005.9a4b7a3e5a624d81.js
+File Name: C:\Downloaded Web Sites\jellyguy.club\js\webflow.41d6a005.9a4b7a3e5a624d81.js
+Content Type: text/javascript
+
+Uri: https://jellyguy.club/js/webfont.js
+File Name: C:\Downloaded Web Sites\jellyguy.club\js\webfont.js
+Content Type: text/javascript
+
+Uri: https://jellyguy.club/media/video_iphone_b_.mp4
+File Name: C:\Downloaded Web Sites\jellyguy.club\media\video_iphone_b_.mp4
+Content Type: video/mp4
+
